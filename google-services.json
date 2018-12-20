@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "528601220603",
+    "firebase_url": "https://customer-management-syst-5a20f.firebaseio.com",
+    "project_id": "customer-management-syst-5a20f",
+    "storage_bucket": "customer-management-syst-5a20f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528601220603:android:f442134ef2a66084",
+        "android_client_info": {
+          "package_name": "com.company.customerManagementSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528601220603-al1gv00olcf7pqv80mpv46j0gomfq9q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQa4vMeFFwrJi3-8Tgnwvf7tZfXofF50"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
